@@ -1,1 +1,1 @@
-#Kwillox Confectionary MVP
+# Kwillox Confectionary
