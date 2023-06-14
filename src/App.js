@@ -25,7 +25,7 @@ function App() {
       <main>
         <Routes>
           <Route exact path="/login" element={<Login />} />
-          <Route exact path="/register" element={<Register />} />
+          <Route index  element={<Register />} />
           <Route exact path="/dashboard/meal-item" element={<Meals />} />
         </Routes>
       </main>

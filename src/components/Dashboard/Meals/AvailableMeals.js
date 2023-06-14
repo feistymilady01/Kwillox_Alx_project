@@ -42,9 +42,7 @@ const AvailableMeals = () => {
 
   return (
     <section className={classes.meals}>
-       <div>
-        Add a button that redirects to "Add Meals Page"
-      </div>
+      
       <Card>
         <ul>{mealsList}</ul>
       </Card>

@@ -11,7 +11,8 @@
     max-width: 350px;
     margin: 0 auto 20px;
     border-radius: 4px;
-    background-color: #FFF;
+    background-color: #fdf9f9;
     padding: 20px;
     box-sizing: border-box;
+    font-weight: bold;
   }

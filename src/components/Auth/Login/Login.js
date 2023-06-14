@@ -56,7 +56,7 @@ const Login = () => {
           disabled={loading}
         />
         <br />
-        <div><Link to="/register">Register</Link></div>
+        <div><Link to="/">Register</Link></div>
       </div>
     </div>
   );
